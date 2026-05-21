@@ -145,7 +145,3 @@ MIT — veja [LICENSE](LICENSE).
 
 ---
 
-## 🤝 Contribuições
-
-Issues e pull requests são bem-vindos. Sugestões de tabelas SIDRA interessantes
-para incluir em futuras aulas: abra uma issue!
