@@ -7,7 +7,6 @@ Cada aula é um Jupyter Notebook autocontido com:
 - ✅ **Teoria explicada em detalhe** dentro do próprio notebook
 - ✅ **Código Python comentado linha a linha**
 - ✅ **Dados reais** coletados ao vivo da API IBGE/SIDRA
-- ✅ **Gráficos salvos automaticamente** na pasta `graficos/`
 - ✅ **Pronto para Google Colab** — funciona ao clonar o repositório
 
 ---
